@@ -1,0 +1,20 @@
+[package]
+name = "vorare"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+# Tokio for asynchronous tasks (needed for simulation concurrency)
+tokio = { version = "1", features = ["full"] }
+
+# Solana SDK for interacting with the Solana blockchain
+solana-sdk = "1.10.25"
+
+# Serde for serializing and deserializing data, which is often needed for blockchain interactions
+serde = { version = "1.0", features = ["derive"] }
+
+# Serde JSON for working with JSON data, often used in blockchain-related operations
+serde_json = "1.0"
+
+# Mutex and Arc for shared concurrency safety
+async-trait = "0.1.50"
