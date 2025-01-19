@@ -1,6 +1,6 @@
-# **Vorare 🧠**
+# **Vora 🧠**
 
-[Visit Vorare Website](https://www.vorare.xyz)
+[Visit Vora Website](https://www.vorare.xyz)
 
 ## **Introduction 🧵**
 **Vorare** is a cutting-edge decentralized simulation platform designed to run dynamic, multi-agent environments. Powered by blockchain and distributed compute, it enables scalable simulations across AI, gaming, and urban planning. Tokenized incentives drive collaboration within the platform, providing a powerful tool for real-time, interactive simulations. With **Vorare**, we aim to revolutionize simulation technology and offer decentralized collaboration opportunities to contributors across the globe.
